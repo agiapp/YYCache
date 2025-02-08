@@ -2,9 +2,9 @@
 
 本项目是基于YYCache进行扩展，适配最新iOS系统，定期进行维护，方便项目使用CocoaPods方式快速集成。
 
-使用方式：`pod YYCache_BR`
+- ##### 安装方式：`pod 'YYCache_BR'`
 
-
+- ##### 最新版本：v1.0.5
 
 YYCache
 ==============
