@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'YYCache_BR'
-  s.version      = '1.0.5'
+  s.version      = '1.0.6'
   s.summary      = 'High performance cache framework for iOS.'
   
   s.homepage     = "https://github.com/agiapp/YYCache_BR"
