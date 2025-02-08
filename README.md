@@ -1,3 +1,11 @@
+# 使用说明
+
+本项目是基于YYCache进行扩展，适配最新iOS系统，定期进行维护，方便项目使用CocoaPods方式快速集成。
+
+使用方式：`pod YYCache_BR`
+
+
+
 YYCache
 ==============
 
@@ -167,5 +175,4 @@ YYCache 使用 MIT 许可证，详情见 LICENSE 文件。
 相关链接
 ==============
 [YYCache 设计思路与技术细节](https://blog.ibireme.com/2015/10/26/yycache/)
-
 
